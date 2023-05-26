@@ -1,3 +1,4 @@
 # SeniorResearch
 The code I wrote for my senior research project (2022).
 This is a naive approach to creating an AI capable of recreating a human-like actions in a vareity of contexts. There was progress towards using Osu! and Nullpomino(Tetris) as environments which stopped when the school network policy prevented me from running non-whitelisted executables. I essentially ran out of time while having the ai train on html games, although i can't seem to find the code that demonstrates this. It was probably a small modification of the ScreenPlayer.py code. By naive, I mean this project just recorded a player playing a game along with their inputs, then trained a small-ish Convolutional Neural Network on the data.
+If for some reason you wish to read the paper I wrote for this project, send me a email.
